@@ -1,0 +1,3 @@
+Book Hotel Room.
+Get Customer Information.Select Deluxe Room.Select Luxury Room.
+Select Super Deluxe Room. Get Room stay Information. Select SUV Transport. Select Sedan Transport. Select Mini Transport. Select Quickwash Laundry. Select Gentlewash Laundry. Select Delicatewash Laundry. Get Transport Information. Get Laundry Information. Calculate Room Fare. Calculate Transport Fare. Calculate Laundry Fare. Cancel Room. Book Hotel Room.
